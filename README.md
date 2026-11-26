@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+<img src="https://www.gitskins.com/api/section/hero?username=lucas-dietrich-it&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82024837%3Fv%3D4&v=showcase-hero-1" alt="Lucas hero visual" />
+</p>
 
-<!--
-**lucas-dietrich-IT/lucas-dietrich-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://www.gitskins.com/api/section/projects?username=lucas-dietrich-it&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82024837%3Fv%3D4&v=showcase-projects-2" alt="Lucas projects visual" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://www.gitskins.com/api/section/heatmap?username=lucas-dietrich-it&theme=github-dark&variant=space-shooter&v=showcase-space-shooter-3" alt="Lucas contribution Space Shooter" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://www.gitskins.com/api/section/stats?username=lucas-dietrich-it&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82024837%3Fv%3D4&v=showcase-stats-4" alt="Lucas stats visual" />
+</p>
+
+<p align="center">
+<img src="https://www.gitskins.com/api/section/social?username=lucas-dietrich-it&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82024837%3Fv%3D4&v=showcase-social-5" alt="Lucas social visual" />
+</p>
