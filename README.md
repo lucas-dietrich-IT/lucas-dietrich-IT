@@ -13,17 +13,6 @@
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-<h2>About me</h2>
-
-<table width="100%" style="display:table;width:100%;table-layout:fixed;">
-<tr>
-<td width="62%" valign="top"><p>I'm building a Microsoft 365 homelab to practice what IT support teams do every day: managing users, securing access and keeping devices compliant.</p><p><strong>Focus:</strong> `Microsoft Intune · Entra ID · CompTIA A+`</p><p><sub>3 years of customer-facing experience · French (native) · English (intermediate) · Open to help desk & IT support roles.</sub></p></td>
-<td width="38%" valign="top"><p><code>LIVE SIGNAL</code></p><p><strong>2</strong> repos<br /><strong>0</strong> stars<br /><strong>15</strong> contributions<br /><strong>0</strong> followers</p></td>
-</tr>
-</table>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
 <h2>What I'm working on</h2>
 
 <picture>
@@ -67,20 +56,6 @@
 <td width="50%" valign="top"><p><strong><a href="https://github.com/lucas-dietrich-IT/lucas-dietrich-IT">lucas-dietrich-IT</a></strong></p><p>My GitHub profile</p><p><sub>Profile README</sub></p></td>
 </tr>
 </table>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>Activity</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=lucas-dietrich-it&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82024837%3Fv%3D4&variant=wow&v=wow-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=lucas-dietrich-it&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82024837%3Fv%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="Lucas animated GitHub signal" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=lucas-dietrich-it&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82024837%3Fv%3D4&variant=wow&v=wow-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=lucas-dietrich-it&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82024837%3Fv%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="Lucas contribution energy field" />
-</picture>
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
